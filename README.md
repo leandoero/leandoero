@@ -3,21 +3,20 @@
 
 ## Hi there 👋,
 
-### I'm Vladimir Popov, I am a community guy who loves tech.
+### About me.
+- 🌱 I’m currently learning: **Java (Spring Boot), C# (ASP.Net Core), C++**
+
+- 👨‍💻 All of my projects will be available at: [https://github.com/leandoero?tab=repositories](https://github.com/leandoero?tab=repositories)
+
+- 📫 How to reach me:
+  Email : **seventeen.iinc@gmail.com**
+  Telegram : [Telegram](https://t.me/gutsmstit)
 -------
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-- 📫 How to reach me: message me at [Whatsapp](https://wa.me/919829599750)
-- ⚡ Fun fact: I love meeting new people and eating food!
-- 💬 Ping Me about #cloud, #RPA, #CommunityOps, #DevRel, #speaking opportunity, #Marketing #CampusOps and anything you like
-
-
-![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=sakshamtaneja21&show_icons=true)
-
-<!--
-**sakshamtaneja21/sakshamtaneja21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-🤔
+<h3 align="left">Social media:</h3>
+<p align="left">
+<a href="https://t.me/gutsmstit" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="avdm2" height="30" width="40" /></a>
 
 -->
