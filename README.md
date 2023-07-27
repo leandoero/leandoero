@@ -4,7 +4,7 @@
 ## Hi there 👋,
 
 ### About me.
-- 🌱 I’m currently learning: **Java (Spring Boot), C# (ASP.Net Core), C++**
+- 🌱 I’m currently learning: C#, C++, a little html **
 
 - 👨‍💻 All of my projects will be available at: [https://github.com/leandoero?tab=repositories](https://github.com/leandoero?tab=repositories)
 
