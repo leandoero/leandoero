@@ -8,9 +8,7 @@
 
 - 👨‍💻 All of my projects will be available at: [https://github.com/leandoero?tab=repositories](https://github.com/leandoero?tab=repositories)
 
-- 📫 How to reach me:
-  Email : **seventeen.iinc@gmail.com**
-  Telegram : [Telegram](https://t.me/gutsmstit)
+- 📫 How to reach me: **seventeen.iinc@gmail.com**
 -------
 
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
