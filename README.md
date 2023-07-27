@@ -1,6 +1,6 @@
 ### <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h1>
 -----
-### Hi, I'm Vladimir 
+### Hi, I'm Vladimir 🦦
 -----
 ### About me.
 - 🌱 I’m currently learning: C#, C++, a little HTML
