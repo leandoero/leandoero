@@ -15,4 +15,4 @@
 -----
 <h3 align="left">Social media:</h3>
 <p align="left">
-<a href="https://t.me/gutsmstit" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="gutsmstit" height="30" width="40" /></a>
+<a href="https://t.me/leandoero" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg" alt="gutsmstit" height="30" width="40" /></a>
