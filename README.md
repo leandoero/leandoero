@@ -9,9 +9,11 @@
 
 - 📫 How to reach me: **leandoero@mail.ru**
   
-  | Languages |
-  | :---: |
-  | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> |
+  | Languages | Icon |
+| :---: | :---: |
+| [C++](https://www.w3schools.com/cpp/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> |
+| [C#](https://www.w3schools.com/cs/) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/> |
+
 -----
 <h3 align="left">Social media:</h3>
 <p align="left">
