@@ -3,7 +3,7 @@
 ### Hi, I'm Vladimir 🦦
 -----
 ### About me.
-- 🌱 I’m currently learning: C++
+- 🌱 I’m currently learning: C++, C#
 
 - 👨‍💻 All of my projects will be available at: [https://github.com/leandoero?tab=repositories](https://github.com/leandoero?tab=repositories)
 
@@ -11,7 +11,7 @@
   
   | Languages |
   | :---: |
-  | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>|
+  | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> |
 -----
 <h3 align="left">Social media:</h3>
 <p align="left">
