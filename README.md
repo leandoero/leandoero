@@ -9,10 +9,12 @@
 
 - 📫 How to reach me: **leandoero@mail.ru**
   
-| Languages |
-| :---: |
+| Languages | Frameworks |
+| :---: | :---: |
 | <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a> |
-| <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a> |
+| <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a> | Entity Framework, <a href="https://github.com/TelegramBots/Telegram.Bot" target="_blank" rel="noreferrer">Telegram.Bot</a> |
+
+
 
 
 -----
