@@ -9,7 +9,7 @@
 
 - 📫 How to reach me: **leandoero@mail.ru**
 
-- 👨‍💻 My leetcode: https://leetcode.com/u/leandoero/
+- 👨‍💻 My leetcode: **https://leetcode.com/u/leandoero/**
   
 | Languages | Frameworks |
 | :---: | :---: |
