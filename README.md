@@ -3,7 +3,7 @@
 ### Hi, I'm Vladimir 🦦
 -----
 ### About me.
-- 🌱 I’m currently learning: C++, C#
+- 🌱 I’m currently learning: C# for api development
 
 - 👨‍💻 All of my projects will be available at: [https://github.com/leandoero?tab=repositories](https://github.com/leandoero?tab=repositories)
 
