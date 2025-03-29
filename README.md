@@ -19,7 +19,7 @@ I'm an aspiring **C# developer**, currently diving deep into ASP.NET Core, focus
 - Backend Development with C# 🔧  
 - Databases 🗄️  
 - Linux 🐧 (Working with the terminal and system administration basics)  
-- English (Preparing for the **B2 First** certification)  
+- English 🏅 (Preparing for the **B2 First** certification)  
 
 
 ## 💻 My Projects:  
