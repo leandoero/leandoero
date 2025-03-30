@@ -31,9 +31,11 @@ You can find my projects in my repositories: [GitHub Repositories](https://githu
 
 
 ## 📊 My Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandoero&show_icons=true&count_private=true&hide=prs&theme=merko)  
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leandoero&show_icons=true&count_private=true&hide=prs&theme=merko)
+
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandoero&langs_count=8&theme=merko)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandoero&langs_count=8&theme=merko&cache_seconds=1800&v=1)
+
 
 
 ## 🏆 My Achievements:  
