@@ -23,7 +23,8 @@ I'm an aspiring **C# developer**, currently diving deep into ASP.NET Core, focus
 
 
 ## 💻 My Projects:  
-You can find my projects in my repositories: [GitHub Repositories](https://github.com/leandoero?tab=repositories) 🚀  
+🚀 **Current Project:** [OnlineOrders](https://github.com/leandoero/OnlineOrders) – API for managing clients, orders, and products.  
+📌 You can find the rest of my projects in my repositories: [GitHub Repositories](https://github.com/leandoero?tab=repositories)  
 
 
 ## 📫 How to reach me:
