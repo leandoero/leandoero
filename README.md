@@ -23,7 +23,10 @@ I'm an aspiring **C# developer**, currently diving deep into ASP.NET Core, focus
 
 
 ## 💻 My Projects:  
-🚀 **Current Project:** [OnlineOrders](https://github.com/leandoero/OnlineOrders) – API for managing clients, orders, and products.  
+🚀 **Current Projects:**
+- [OnlineOrders](https://github.com/leandoero/OnlineOrders) – API for managing clients, orders, and products.
+- [HabitLogger](https://github.com/leandoero/HabitLogger) – Habit tracker built as a console application using the same clean architecture approach.
+ 
 📌 You can find the rest of my projects in my repositories: [GitHub Repositories](https://github.com/leandoero?tab=repositories)  
 
 
