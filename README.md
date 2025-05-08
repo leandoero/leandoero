@@ -2,9 +2,6 @@
 ## Hey there, I'm Vladimir 👋  
 
 
-I'm an aspiring **C# developer**, currently diving deep into ASP.NET Core, focusing on API development. 
-
-
 ## 🚀 Tech Stack:
 | Language/Technology | Skills |
 |---------------------|--------|
@@ -16,17 +13,12 @@ I'm an aspiring **C# developer**, currently diving deep into ASP.NET Core, focus
 
 ## 🌱 What I'm currently learning:  
 - Data Structures and Algorithms 📚  
-- Backend Development with C# 🔧  
+- kotlin 🔧  
 - Databases 🗄️  
 - Linux 🐧 (Working with the terminal and system administration basics)  
 - English 🏅 (Preparing for the **B2 First** certification)  
 
 
-## 💻 My Projects:  
-🚀 **Current Projects:**
-- [OnlineOrders](https://github.com/leandoero/OnlineOrders) – API for managing clients, orders, and products.
-- [HabitLogger](https://github.com/leandoero/HabitLogger) – Habit tracker built as a console application using the same clean architecture approach.
- 
 📌 You can find the rest of my projects in my repositories: [GitHub Repositories](https://github.com/leandoero?tab=repositories)  
 
 
@@ -39,8 +31,6 @@ I'm an aspiring **C# developer**, currently diving deep into ASP.NET Core, focus
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandoero&langs_count=8&theme=merko&cache_seconds=1800)
-
-
 
 
 ## 🏆 My Achievements:  
