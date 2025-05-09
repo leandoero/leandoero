@@ -14,7 +14,7 @@
 
 ## 🌱 What I'm currently learning:  
 - Data Structures and Algorithms 📚  
-- kotlin 🔧  
+- Kotlin 🔧  
 - Databases 🗄️  
 - Linux 🐧 (Working with the terminal and system administration basics)  
 - English 🏅 (Preparing for the **B2 First** certification)  
