@@ -7,6 +7,7 @@
 |---------------------|--------|
 | **C++**            | OOP, Data Structures & Algorithms 📚 |
 | **C#**             | ASP.NET Core, Telegram.Bot, Entity Framework 🔧 |
+| **Kotlin**         | In the process of studying |
 | **PostgreSQL**     | Database Design, Query Optimization 🗄️ |
 | **Docker**         | Containerization, Deployment 🐳 |
 
